@@ -100,7 +100,7 @@ The model features robust data processing, a CNN architecture with augmentation,
 
 ## Last Details
 
-The Model was runned on a 2021 Macbook Pro with M1 Pro on a conda environment.
+The Model was trained on a 2021 Macbook Pro with M1 Pro on a conda environment.
 
 ## References 
 
